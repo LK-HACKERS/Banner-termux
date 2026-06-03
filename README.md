@@ -14,9 +14,8 @@ LK-HACKERS කණ්ඩායම විසින් නිර්මාණය ක
 
 පහත විධානයන් (Commands) එකින් එක Terminal එකේ Type කරන්න:
 
-```bash
 # 1. Tool එකේ තියෙන ඔක්කොම ටික ලබාගන්න
-git clone [https://github.com/LK-HACKERS/Banner-termux.git](https://github.com/LK-HACKERS/Banner-termux.git)
+git clone https://github.com/LK-HACKERS/Banner-termux.git
 
 # 2. Folder එක ඇතුළට යන්න
 cd Banner-termux
